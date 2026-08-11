@@ -1,2 +1,2 @@
-# DEP
-Tasks for Digital Empowerment Pakistan Python Internship
+# Python Programming Internship
+Digital Empowerment Pakistan Python Internship
